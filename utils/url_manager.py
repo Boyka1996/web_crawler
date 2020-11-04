@@ -43,3 +43,4 @@ if __name__ == '__main__':
     print(url_manager.new_urls, url_manager.old_urls)
     print("#" * 30)
     print(url_manager.has_new_url())
+    print()
